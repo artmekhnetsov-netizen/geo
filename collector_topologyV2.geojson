@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "name": "collector_topology",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "collector_1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            69.68969038,
+            42.2691279
+          ],
+          [
+            69.6714842,
+            42.26799399
+          ],
+          [
+            69.64399364,
+            42.27144936
+          ],
+          [
+            69.62042892,
+            42.27291026
+          ],
+          [
+            69.60645355,
+            42.27886022
+          ],
+          [
+            69.59394091,
+            42.29227423
+          ],
+          [
+            69.57682843,
+            42.30379415
+          ],
+          [
+            69.56017272,
+            42.3115096
+          ],
+          [
+            69.54083329,
+            42.32381468
+          ],
+          [
+            69.54127336,
+            42.34334881
+          ],
+          [
+            69.55439975,
+            42.36159544
+          ],
+          [
+            69.54508427,
+            42.38473421
+          ]
+        ]
+      },
+      "properties": {
+        "feature_id": "collector_1",
+        "feature_type": "collector_axis",
+        "collector_id": "1",
+        "name": "Коллектор 1",
+        "point_count": 12,
+        "start_node": "1",
+        "end_node": "12",
+        "stroke": "#00A6D6",
+        "stroke-width": 4,
+        "stroke-opacity": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_2",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            69.67173648,
+            42.27510334
+          ],
+          [
+            69.65198964,
+            42.28310995
+          ],
+          [
+            69.62314846,
+            42.29623358
+          ],
+          [
+            69.61742004,
+            42.2987418
+          ],
+          [
+            69.61695371,
+            42.29895433
+          ],
+          [
+            69.60941801,
+            42.29551564
+          ],
+          [
+            69.60567407,
+            42.29122819
+          ],
+          [
+            69.60579053,
+            42.28916543
+          ],
+          [
+            69.6013479,
+            42.28581222
+          ]
+        ]
+      },
+      "properties": {
+        "feature_id": "collector_2",
+        "feature_type": "collector_axis",
+        "collector_id": "2",
+        "name": "Коллектор 2",
+        "point_count": 9,
+        "start_node": "1",
+        "end_node": "9",
+        "stroke": "#00A6D6",
+        "stroke-width": 4,
+        "stroke-opacity": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_3",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            69.64605585,
+            42.32914793
+          ],
+          [
+            69.63792156,
+            42.325179
+          ],
+          [
+            69.62983836,
+            42.3177007
+          ],
+          [
+            69.62154949,
+            42.30943445
+          ],
+          [
+            69.60672616,
+            42.31304208
+          ],
+          [
+            69.59267827,
+            42.3068449
+          ],
+          [
+            69.57502984,
+            42.3041965
+          ]
+        ]
+      },
+      "properties": {
+        "feature_id": "collector_3",
+        "feature_type": "collector_axis",
+        "collector_id": "3",
+        "name": "Коллектор 3",
+        "point_count": 7,
+        "start_node": "1",
+        "end_node": "7",
+        "stroke": "#00A6D6",
+        "stroke-width": 4,
+        "stroke-opacity": 0.9
+      }
+    }
+  ]
+}
