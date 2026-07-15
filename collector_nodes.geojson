@@ -1,0 +1,734 @@
+{
+  "type": "FeatureCollection",
+  "name": "collector_nodes",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "collector_1_node_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.68969038,
+          42.2691279
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_1",
+        "collector_point_id": 1,
+        "collector_id": "1",
+        "name": "1",
+        "sequence_order": 1,
+        "latitude": 42.2691279,
+        "longitude": 69.68969038,
+        "elevation": 575.19,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_1_node_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6714842,
+          42.26799399
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_2",
+        "collector_point_id": 2,
+        "collector_id": "1",
+        "name": "2",
+        "sequence_order": 2,
+        "latitude": 42.26799399,
+        "longitude": 69.6714842,
+        "elevation": 553.74,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_1_node_3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.64399364,
+          42.27144936
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_3",
+        "collector_point_id": 3,
+        "collector_id": "1",
+        "name": "3",
+        "sequence_order": 3,
+        "latitude": 42.27144936,
+        "longitude": 69.64399364,
+        "elevation": 539.57,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_1_node_4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.62042892,
+          42.27291026
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_4",
+        "collector_point_id": 4,
+        "collector_id": "1",
+        "name": "4",
+        "sequence_order": 4,
+        "latitude": 42.27291026,
+        "longitude": 69.62042892,
+        "elevation": 530.01,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_1_node_5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.60645355,
+          42.27886022
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_5",
+        "collector_point_id": 5,
+        "collector_id": "1",
+        "name": "5",
+        "sequence_order": 5,
+        "latitude": 42.27886022,
+        "longitude": 69.60645355,
+        "elevation": 521.86,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_1_node_6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.59394091,
+          42.29227423
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_6",
+        "collector_point_id": 6,
+        "collector_id": "1",
+        "name": "6",
+        "sequence_order": 6,
+        "latitude": 42.29227423,
+        "longitude": 69.59394091,
+        "elevation": 510.37,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_1_node_7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.57682843,
+          42.30379415
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_7",
+        "collector_point_id": 7,
+        "collector_id": "1",
+        "name": "7",
+        "sequence_order": 7,
+        "latitude": 42.30379415,
+        "longitude": 69.57682843,
+        "elevation": 495.57,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_1_node_8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.56017272,
+          42.3115096
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_8",
+        "collector_point_id": 8,
+        "collector_id": "1",
+        "name": "8",
+        "sequence_order": 8,
+        "latitude": 42.3115096,
+        "longitude": 69.56017272,
+        "elevation": 478.74,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_1_node_9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.54083329,
+          42.32381468
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_9",
+        "collector_point_id": 9,
+        "collector_id": "1",
+        "name": "9",
+        "sequence_order": 9,
+        "latitude": 42.32381468,
+        "longitude": 69.54083329,
+        "elevation": 469.58,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_1_node_10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.54127336,
+          42.34334881
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_10",
+        "collector_point_id": 10,
+        "collector_id": "1",
+        "name": "10",
+        "sequence_order": 10,
+        "latitude": 42.34334881,
+        "longitude": 69.54127336,
+        "elevation": 466.91,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_1_node_11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.55439975,
+          42.36159544
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_11",
+        "collector_point_id": 11,
+        "collector_id": "1",
+        "name": "11",
+        "sequence_order": 11,
+        "latitude": 42.36159544,
+        "longitude": 69.55439975,
+        "elevation": 462.32,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_1_node_12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.54508427,
+          42.38473421
+        ]
+      },
+      "properties": {
+        "node_key": "collector_1_node_12",
+        "collector_point_id": 12,
+        "collector_id": "1",
+        "name": "12",
+        "sequence_order": 12,
+        "latitude": 42.38473421,
+        "longitude": 69.54508427,
+        "elevation": 458.48,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_2_node_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.67173648,
+          42.27510334
+        ]
+      },
+      "properties": {
+        "node_key": "collector_2_node_1",
+        "collector_point_id": 13,
+        "collector_id": "2",
+        "name": "1",
+        "sequence_order": 1,
+        "latitude": 42.27510334,
+        "longitude": 69.67173648,
+        "elevation": 565.46,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_2_node_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.65198964,
+          42.28310995
+        ]
+      },
+      "properties": {
+        "node_key": "collector_2_node_2",
+        "collector_point_id": 14,
+        "collector_id": "2",
+        "name": "2",
+        "sequence_order": 2,
+        "latitude": 42.28310995,
+        "longitude": 69.65198964,
+        "elevation": 561.96,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_2_node_3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.62314846,
+          42.29623358
+        ]
+      },
+      "properties": {
+        "node_key": "collector_2_node_3",
+        "collector_point_id": 15,
+        "collector_id": "2",
+        "name": "3",
+        "sequence_order": 3,
+        "latitude": 42.29623358,
+        "longitude": 69.62314846,
+        "elevation": 540.04,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_2_node_4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.61742004,
+          42.2987418
+        ]
+      },
+      "properties": {
+        "node_key": "collector_2_node_4",
+        "collector_point_id": 16,
+        "collector_id": "2",
+        "name": "4",
+        "sequence_order": 4,
+        "latitude": 42.2987418,
+        "longitude": 69.61742004,
+        "elevation": 532.68,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_2_node_5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.61695371,
+          42.29895433
+        ]
+      },
+      "properties": {
+        "node_key": "collector_2_node_5",
+        "collector_point_id": 17,
+        "collector_id": "2",
+        "name": "5",
+        "sequence_order": 5,
+        "latitude": 42.29895433,
+        "longitude": 69.61695371,
+        "elevation": 532.45,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_2_node_6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.60941801,
+          42.29551564
+        ]
+      },
+      "properties": {
+        "node_key": "collector_2_node_6",
+        "collector_point_id": 18,
+        "collector_id": "2",
+        "name": "6",
+        "sequence_order": 6,
+        "latitude": 42.29551564,
+        "longitude": 69.60941801,
+        "elevation": 529.41,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_2_node_7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.60567407,
+          42.29122819
+        ]
+      },
+      "properties": {
+        "node_key": "collector_2_node_7",
+        "collector_point_id": 19,
+        "collector_id": "2",
+        "name": "7",
+        "sequence_order": 7,
+        "latitude": 42.29122819,
+        "longitude": 69.60567407,
+        "elevation": 528.34,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_2_node_8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.60579053,
+          42.28916543
+        ]
+      },
+      "properties": {
+        "node_key": "collector_2_node_8",
+        "collector_point_id": 20,
+        "collector_id": "2",
+        "name": "8",
+        "sequence_order": 8,
+        "latitude": 42.28916543,
+        "longitude": 69.60579053,
+        "elevation": 527.0,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_2_node_9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6013479,
+          42.28581222
+        ]
+      },
+      "properties": {
+        "node_key": "collector_2_node_9",
+        "collector_point_id": 21,
+        "collector_id": "2",
+        "name": "9",
+        "sequence_order": 9,
+        "latitude": 42.28581222,
+        "longitude": 69.6013479,
+        "elevation": 518.08,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_3_node_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.64605585,
+          42.32914793
+        ]
+      },
+      "properties": {
+        "node_key": "collector_3_node_1",
+        "collector_point_id": 22,
+        "collector_id": "3",
+        "name": "1",
+        "sequence_order": 1,
+        "latitude": 42.32914793,
+        "longitude": 69.64605585,
+        "elevation": 570.51,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_3_node_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.63792156,
+          42.325179
+        ]
+      },
+      "properties": {
+        "node_key": "collector_3_node_2",
+        "collector_point_id": 23,
+        "collector_id": "3",
+        "name": "2",
+        "sequence_order": 2,
+        "latitude": 42.325179,
+        "longitude": 69.63792156,
+        "elevation": 554.1,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_3_node_3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.62983836,
+          42.3177007
+        ]
+      },
+      "properties": {
+        "node_key": "collector_3_node_3",
+        "collector_point_id": 24,
+        "collector_id": "3",
+        "name": "3",
+        "sequence_order": 3,
+        "latitude": 42.3177007,
+        "longitude": 69.62983836,
+        "elevation": 538.29,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_3_node_4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.62154949,
+          42.30943445
+        ]
+      },
+      "properties": {
+        "node_key": "collector_3_node_4",
+        "collector_point_id": 25,
+        "collector_id": "3",
+        "name": "4",
+        "sequence_order": 4,
+        "latitude": 42.30943445,
+        "longitude": 69.62154949,
+        "elevation": 525.14,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_3_node_5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.60672616,
+          42.31304208
+        ]
+      },
+      "properties": {
+        "node_key": "collector_3_node_5",
+        "collector_point_id": 26,
+        "collector_id": "3",
+        "name": "5",
+        "sequence_order": 5,
+        "latitude": 42.31304208,
+        "longitude": 69.60672616,
+        "elevation": 511.61,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_3_node_6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.59267827,
+          42.3068449
+        ]
+      },
+      "properties": {
+        "node_key": "collector_3_node_6",
+        "collector_point_id": 27,
+        "collector_id": "3",
+        "name": "6",
+        "sequence_order": 6,
+        "latitude": 42.3068449,
+        "longitude": 69.59267827,
+        "elevation": 504.14,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "collector_3_node_7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.57502984,
+          42.3041965
+        ]
+      },
+      "properties": {
+        "node_key": "collector_3_node_7",
+        "collector_point_id": 28,
+        "collector_id": "3",
+        "name": "7",
+        "sequence_order": 7,
+        "latitude": 42.3041965,
+        "longitude": 69.57502984,
+        "elevation": 492.04,
+        "is_active": true,
+        "comment": "",
+        "marker-color": "#00A6D6",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      }
+    }
+  ]
+}
