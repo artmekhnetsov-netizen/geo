@@ -43,10 +43,10 @@
     "station_key": "station_44",
     "well_id": 44,
     "station_config_id": null,
-    "name": "Ордабасы",
+    "name": "ЕвроКристалл",
     "well_number": "2-15",
-    "latitude": 42.27758,
-    "longitude": 69.72369,
+    "latitude": 42.264099
+    "longitude": 69.714816,
     "object_type": "monitoring_station",
     "object_type_ru": "точка мониторинга",
     "well_role": "inspection",
