@@ -57,6 +57,6 @@
     "station_enabled": false,
     "marker_color": "#F4511E",
     "detail_query": "var-well_id=44",
-    "comment": "Нет записи в station_configs; точка сохранена для привязки по well_id"
+    "comment": "Нет запис в station_configs; точка сохранена для привязки по well_id"
   }
 ]
