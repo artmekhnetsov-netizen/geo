@@ -41,10 +41,10 @@
   },
   {
     "station_key": "station_44",
-    "well_id": 44,
+    "well_id": 53,
     "station_config_id": null,
     "name": "ЕвроКристалл",
-    "well_number": "2-15",
+    "well_number": "3-QazAlPack",
     "latitude": 42.264099
     "longitude": 69.714816,
     "object_type": "monitoring_station",
