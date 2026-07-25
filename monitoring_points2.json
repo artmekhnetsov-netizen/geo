@@ -45,7 +45,7 @@
     "station_config_id": null,
     "name": "ЕвроКристалл",
     "well_number": "3-QazAlPack",
-    "latitude": 42.264099
+    "latitude": 42.264099,
     "longitude": 69.714816,
     "object_type": "monitoring_station",
     "object_type_ru": "точка мониторинга",
