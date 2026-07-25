@@ -17,7 +17,7 @@
     "station_enabled": true,
     "marker_color": "#FFB300",
     "detail_query": "var-well_id=1",
-    "comment": ""
+    "comment": "no"
   },
   {
     "station_key": "station_2",
@@ -37,7 +37,7 @@
     "station_enabled": true,
     "marker_color": "#FFB300",
     "detail_query": "var-well_id=2",
-    "comment": ""
+    "comment": "no"
   },
   {
     "station_key": "station_44",
