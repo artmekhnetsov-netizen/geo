@@ -395,48 +395,6 @@
           ]
         ]
       },
-      "properties": {
-        "connection_id": 18,
-        "name": "2 Сайран → 3 Сайран",
-        "collector_id": "",
-        "edge_type": "",
-        "from_well_id": 2,
-        "from_well_number": "2",
-        "from_name": "Сайран",
-        "to_well_id": 3,
-        "to_well_number": "3",
-        "to_name": "Сайран"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "connection_19",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            69.69348,
-            42.26811
-          ],
-          [
-            69.53876,
-            42.390652
-          ]
-        ]
-      },
-      "properties": {
-        "connection_id": 19,
-        "name": "3 Сайран → 1 КОС",
-        "collector_id": "",
-        "edge_type": "",
-        "from_well_id": 3,
-        "from_well_number": "3",
-        "from_name": "Сайран",
-        "to_well_id": 1,
-        "to_well_number": "1",
-        "to_name": "КОС"
-      }
-    },
     {
       "type": "Feature",
       "id": "connection_20",
