@@ -80,25 +80,6 @@
     },
     {
       "type": "Feature",
-      "id": "subscriber_21",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          69.66343,
-          42.24817
-        ]
-      },
-      "properties": {
-        "subscriber_id": 21,
-        "name": "КНС",
-        "latitude": 42.24817,
-        "longitude": 69.66343,
-        "coordinates": "42.248170, 69.663430",
-        "tooltip": "КНС | Координаты: 42.248170, 69.663430"
-      }
-    },
-    {
-      "type": "Feature",
       "id": "subscriber_3",
       "geometry": {
         "type": "Point",
@@ -114,25 +95,6 @@
         "longitude": 69.717378,
         "coordinates": "42.277597, 69.717378",
         "tooltip": "КазЮгПром | Координаты: 42.277597, 69.717378"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "subscriber_17",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          69.671197,
-          42.31825
-        ]
-      },
-      "properties": {
-        "subscriber_id": 17,
-        "name": "ТОО \"Azala Textile\"",
-        "latitude": 42.31825,
-        "longitude": 69.671197,
-        "coordinates": "42.318250, 69.671197",
-        "tooltip": "ТОО \"Azala Textile\" | Координаты: 42.318250, 69.671197"
       }
     },
     {
@@ -209,25 +171,6 @@
         "longitude": 69.622276,
         "coordinates": "42.298103, 69.622276",
         "tooltip": "ТОО \"Алтын Дан\" | Координаты: 42.298103, 69.622276"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "subscriber_18",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          69.720732,
-          42.365672
-        ]
-      },
-      "properties": {
-        "subscriber_id": 18,
-        "name": "ТОО \"Барыс 2007\"",
-        "latitude": 42.365672,
-        "longitude": 69.720732,
-        "coordinates": "42.365672, 69.720732",
-        "tooltip": "ТОО \"Барыс 2007\" | Координаты: 42.365672, 69.720732"
       }
     },
     {
@@ -342,44 +285,6 @@
         "longitude": 69.64585,
         "coordinates": "42.330334, 69.645850",
         "tooltip": "ТОО \"Шымкентский пивоваренный завод\" | Координаты: 42.330334, 69.645850"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "subscriber_16",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          69.645093,
-          42.293844
-        ]
-      },
-      "properties": {
-        "subscriber_id": 16,
-        "name": "ТОО \"Шымкентцемент\"",
-        "latitude": 42.293844,
-        "longitude": 69.645093,
-        "coordinates": "42.293844, 69.645093",
-        "tooltip": "ТОО \"Шымкентцемент\" | Координаты: 42.293844, 69.645093"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "subscriber_20",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          69.426468,
-          42.379242
-        ]
-      },
-      "properties": {
-        "subscriber_id": 20,
-        "name": "ТОО СП \"Кока Кола Алматы Ботлерс\"",
-        "latitude": 42.379242,
-        "longitude": 69.426468,
-        "coordinates": "42.379242, 69.426468",
-        "tooltip": "ТОО СП \"Кока Кола Алматы Ботлерс\" | Координаты: 42.379242, 69.426468"
       }
     },
     {
