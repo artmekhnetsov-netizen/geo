@@ -55,6 +55,10 @@
           [
             69.54508427,
             42.38473421
+          ],
+          [
+            69.693458,
+            42.26804
           ]
         ]
       },
@@ -63,9 +67,9 @@
         "feature_type": "collector_axis",
         "collector_id": "1",
         "name": "Коллектор 1",
-        "point_count": 12,
+        "point_count": 13,
         "start_node": "1",
-        "end_node": "12",
+        "end_node": "13",
         "stroke": "#FFB300",
         "stroke-width": 4,
         "stroke-opacity": 0.9
